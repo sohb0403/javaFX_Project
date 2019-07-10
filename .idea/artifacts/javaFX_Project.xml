@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="javaFX_Project">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="org.dimigo.gui.helloworld.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="javaFX_Project.jar">
+        <element id="module-output" name="javaFX_Project" />
+      </element>
+    </root>
+  </artifact>
+</component>
